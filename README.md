@@ -41,4 +41,9 @@
 
 <hr>
 
+<h3 id="Something">Not So Important</h3>
+<p>I am a Computer and Network Engineering student; I am learning about many amazing and interesting things related to how computers work, how to boot windows 7 and Debian, HTML and JavaScript, cabling, and many more! Wish me luck ^^</p>
+<p>So sorry that I cannot and won't answer anything about it as I, still learning more about it ^_^</p>
+<br>
+
 </div>
