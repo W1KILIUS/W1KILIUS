@@ -5,7 +5,7 @@
 ### **Lebt wohl, Ärzte.**
 ### **Wir werden uns in einem anderen Leben wiedersehen.**
 
-sign my atabook :([https://dr3amyink.atabook.org/](https://dr3amyink.atabook.org/))
+([https://dr3amyink.atabook.org/](https://dr3amyink.atabook.org/))
 
 <br/>
 
