@@ -2,9 +2,7 @@
 
 <!-- VIEW COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=W1KILIUS&label=Soldiers&style=flat-square&color=orange" alt="Profile Views" />
-
 <br><br>
-
 <!-- PROFILE IMAGE -->
 <img src="https://i.pinimg.com/736x/3e/77/63/3e77631390d93482c6b2d2e6ae89dcb0.jpg" alt="Profile Center Image" width="420" />
 
