@@ -34,12 +34,3 @@
 <p>&bull; HH/HB, Digital Circus, Dandy's World fandoms unless friends.</p>
 <p>&bull; Darkshippers</p>
 <p>&bull; Gore</p>
-
-<hr>
-
-<h3 id="links">LINKS</h3>
-<p><a href="https://dr3amyink.atabook.org/">Atabook</a></p>
-<p><a href="https://pronouns.cc/@DISC0RDI0SIUS">Pronouns.cc</a></p>
-<p><a href="https://en.pronouns.page/@R3DD1TUS_">Pronouns.page</a></p>
-
-</div>
