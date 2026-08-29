@@ -17,20 +17,3 @@
 <p><a href="https://junots-letters.atabook.org/">Junot's Letters</a></p>
 
 <br/>
-
-<!-- SECTIONS -->
-
-<hr>
-
-<h3 id="info">INFO</h3>
-<p>c+h always apply even if I don't have it on name, I rarely put it in my name too T-T</p>
-<br>
-<p>I love to cuddle people yet I'm very scared of people T_T feel free to cuddle me [Pls do cuddle me]</p>
-
-<hr>
-
-<h3 id="dnis">DNI'S</h3>
-<p>&bull; &lt;15 years old people.</p>
-<p>&bull; HH/HB, Digital Circus, Dandy's World fandoms unless friends.</p>
-<p>&bull; Darkshippers</p>
-<p>&bull; Gore</p>
