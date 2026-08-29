@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- PROFILE IMAGE -->
-<img src="https://i.pinimg.com/736x/3e/77/63/3e77631390d93482c6b2d2e6ae89dcb0.jpg" alt="Profile Center Image" width="350" />
+<img src="https://i.pinimg.com/736x/3e/77/63/3e77631390d93482c6b2d2e6ae89dcb0.jpg" alt="Profile Center Image" width="420" />
 
 <p>cr: <a href="https://id.pinterest.com/AFTERDEATHLOL/_created/">AFTERDEATHLOL</a></p>
 
@@ -25,9 +25,9 @@
 <hr>
 
 <h3 id="info">INFO</h3>
-<p>c+h always apply even if I don't have it on name, I rarely put it in my name tho cuz not enough space lol</p>
+<p>c+h always apply even if I don't have it on name, I rarely put it in my name too T-T</p>
 <br>
-<p>Lovely day, do cuddle or hide <3</p>
+<p>I love to cuddle people yet I'm very scared of people T_T feel free to cuddle me [Pls do cuddle me]</p>
 
 <hr>
 
@@ -35,7 +35,7 @@
 <p>&bull; &lt;15 years old people.</p>
 <p>&bull; HH/HB, Digital Circus, Dandy's World fandoms unless friends.</p>
 <p>&bull; Darkshippers</p>
-<p>&bull; IRL Gore</p>
+<p>&bull; Gore</p>
 
 <hr>
 
