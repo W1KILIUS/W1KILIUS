@@ -12,8 +12,10 @@
 
 <div align="center">
 
-<h3><b>"...I want finally to repose my tired head, my sore limbs...to enjoy that which I earned...with my blood! The blood of an honest man, of a good Frenchman, of a true patriot." - Jean-A.Junot</b></h3>
+<h3><b>"...I want finally to repose my tired head, my sore limbs...to enjoy that which I earned...with my blood!" - Jean-A.Junot</b></h3>
 
 <p><a href="https://junots-letters.atabook.org/">Junot's Letters</a></p>
+
+<p><a href="https://pronouns.cc/@Farewell-Letters">Farewell-Letters</a></p>
 
 <br/>
