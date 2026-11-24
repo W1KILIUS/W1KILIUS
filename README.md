@@ -36,6 +36,8 @@
 
 <sub>✦ HOLD THE LINE • STAY THE COURSE ✦</sub>
 
+<sub>✦ MISSION: SUCCESSFUL ✦</sub>
+
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=110&section=footer"/>
