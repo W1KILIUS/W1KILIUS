@@ -10,7 +10,7 @@
 
 <br>
 
-### `✦ LETTERS FROM THE FRONT ✦`
+### `✦ LETTERS FROM THE FRONT`
 
 > *"...Are you a helicopter that swept me off my feet, or just someone I'd happily march beside forever?"* 
 
